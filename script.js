@@ -219,7 +219,11 @@ document.addEventListener("DOMContentLoaded", () => {
             descricao: "Short Masculino , com tecido de alta qualidade e design moderno.",
         }
     ];
-    const validCoupons = [{ code: "OMEGA10", type: "percentage", value: 10 }];
+    const validCoupons = [
+        { code: "FRETEOMEGA", type: "percentage", value: 8 },
+        { code: "OMEGA-br",type: "percentage", value: 10},
+        { code: "OMEGAZO",type: "percentage", value: 15}
+    ];
     let carrinho = [],
         tipoEntrega = "delivery",
         appliedCoupon = null;
@@ -517,7 +521,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-        const numeroWhatsApp = "5547996831255";
+        const numeroWhatsApp = "554788196625";
         const itensPedido = carrinho
             .map((item) => `  - ${item.quantidade}x ${item.nome}`)
             .join("\n");
