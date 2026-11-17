@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 1,
             nome: "Bermuda Masculina",
             categoria: "bermudas",
-            preco: 50.00,
+            preco: 75.90,
             imagem:
                 "./assets/bermuda1.jpeg",
             descricao: "Bermudas masculinas , com tecido de alta qualidade e design moderno.",
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 2,
             nome: "Bermuda Masculina",
             categoria: "Bermudas",
-            preco: 50.00,
+            preco: 75.90,
             imagem:
                 "./assets/bermuda2.jpeg",
             descricao: "Bermuda Masculina , com tecido de alta qualidade e design moderno.",
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 3,
             nome: "Bermuda Masculina",
             categoria: "Bermudas",
-            preco: 50.00,
+            preco: 75.90,
             imagem:
                 "./assets/bermuda3.jpeg",
             descricao: "Bermuda Masculina , com tecido de alta qualidade e design moderno.",
@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 4,
             nome: "Bermuda Masculina",
             categoria: "Bermudas",
-            preco: 50.00,
+            preco: 75.90,
             imagem:
                 "./assets/bermuda4.jpeg",
             descricao: "Bermuda Masculina , com tecido de alta qualidade e design moderno.",
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 5,
             nome: "Bermuda Masculina",
             categoria: "Bermudas",
-            preco: 50.00,
+            preco: 75.90,
             imagem:
                 "./assets/bermuda5.jpeg",
             descricao: "Bermuda Masculina , com tecido de alta qualidade e design moderno.",
@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 6,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 79.99,
             imagem:
                 "./assets/camisas1.1.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 7,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 79.99,
             imagem:
                 "./assets/camisas1.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 8,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 79.99,
             imagem:
                 "./assets/camisas2.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 9,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 89.99,
             imagem:
                 "./assets/camisas3.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 10,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 89.99,
             imagem:
                 "./assets/camisas4.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 11,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 79.99,
             imagem:
                 "./assets/camisas5.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 12,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 89.99,
             imagem:
                 "./assets/camisas6.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 13,
             nome: "Camisas masculina Over Size",
             categoria: "blusas",
-            preco: 65.99,
+            preco: 79.99,
             imagem:
                 "./assets/camisas7.jpeg",
             descricao: "Camisa Masculina Over Size , com tecido de alta qualidade e design moderno.",
@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 14,
             nome: "Regata Masculina",
             categoria: "Regatas",
-            preco: 55.99,
+            preco: 69.99,
             imagem:
                 "./assets/regatas1.jpeg",
             descricao: "Regata Masculina , com tecido de alta qualidade e design moderno.",
@@ -177,7 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 15,
             nome: "Regata Masculina",
             categoria: "Regatas",
-            preco: 55.99,
+            preco: 69.99,
             imagem:
                 "./assets/regatas2.jpeg",
             descricao: "Regata Masculina , com tecido de alta qualidade e design moderno.",
@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 16,
             nome: "Regata Masculina",
             categoria: "Regatas",
-            preco: 55.99,
+            preco: 69.99,
             imagem:
                 "./assets/regatas3.jpeg",
             descricao: "Regata Masculina , com tecido de alta qualidade e design moderno.",
@@ -195,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 17,
             nome: "relogio Masculino",
             categoria: "acessórios",
-            preco: 45.99,
+            preco: 38.99,
             imagem:
                 "./assets/relogio-masculino.jpeg",
             descricao: "Relógio Masculino , com tecido de alta qualidade e design moderno.",
@@ -204,7 +204,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 18,
             nome: "Sapato Casual",
             categoria: "calçados",
-            preco: 89.99,
+            preco: 80.99,
             imagem:
                 "./assets/sapato-masculino.jpeg",
             descricao: "Sapato Masculino Casual Castelli Marinho",
@@ -213,7 +213,7 @@ document.addEventListener("DOMContentLoaded", () => {
              id: 19,
             nome: "short Masculino",
             categoria: "shorts",
-            preco: 45.99,
+            preco: 65.99,
             imagem:
                 "./assets/short-masculino.jpeg",
             descricao: "Short Masculino , com tecido de alta qualidade e design moderno.",
